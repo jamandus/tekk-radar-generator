@@ -1,148 +1,148 @@
 [
   {
     "name": "Java",
-    "ring": "Adopt",
-    "quadrant": "Languages & Frameworks",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
     "isNew": "FALSE",
     "description": "<p><strong>Java</strong> is a versatile, object-oriented language widely used for enterprise applications. Known for its <em>write once, run anywhere</em> philosophy, Java supports secure, scalable, and high-performance software development across web, mobile, and server platforms.</p>"
   },
   {
     "name": "JavaEE",
-    "ring": "Assess",
-    "quadrant": "Languages & Frameworks",
+    "ring": "assess",
+    "quadrant": "languages & frameworks",
     "isNew": "FALSE",
     "description": "<p><strong>JavaEE (Enterprise Edition)</strong> extends Java for large-scale, distributed enterprise applications. Though powerful, its complexity has led many organizations to adopt lighter-weight frameworks like Spring or microservice architectures.</p>"
   },
   {
     "name": "Typescript",
-    "ring": "Adopt",
-    "quadrant": "Languages & Frameworks",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
     "isNew": "FALSE",
     "description": "<p><strong>TypeScript</strong> is a statically typed superset of JavaScript that improves developer productivity with type-checking, helping avoid runtime errors. It offers robust tools for large-scale application development, making JavaScript more scalable and maintainable.</p>"
   },
   {
     "name": "Javascript",
-    "ring": "Hold",
-    "quadrant": "Languages & Frameworks",
+    "ring": "hold",
+    "quadrant": "languages & frameworks",
     "isNew": "FALSE",
     "description": "<p><strong>JavaScript</strong> remains essential for web development, but its dominance is challenged by alternatives like <em>TypeScript</em> that offer better tooling and safety features. Teams should assess if alternatives might offer better development experiences, especially for complex applications.</p>"
   },
   {
     "name": "Angular",
-    "ring": "Adopt",
-    "quadrant": "Languages & Frameworks",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
     "isNew": "FALSE",
     "description": "<p><strong>Angular</strong> is a front-end framework used to build dynamic single-page applications (SPAs). Developed by Google, it features tools like <em>dependency injection</em> and <em>two-way data binding</em>, making it a popular choice for enterprise-scale apps.</p>"
   },
   {
     "name": "Jekyll",
-    "ring": "Trial",
-    "quadrant": "Platforms",
+    "ring": "trial",
+    "quadrant": "platforms",
     "isNew": "TRUE",
     "description": "<p><strong>Jekyll</strong> is a simple, static site generator often used for GitHub Pages. It allows developers to create fast, customizable websites with minimal infrastructure. By processing Markdown files and templates, Jekyll generates static HTML content, making it an ideal choice for blogs, portfolios, and documentation sites.</p>"
   },
   {
     "name": "GitHub Pages",
-    "ring": "Trial",
-    "quadrant": "Platforms",
+    "ring": "trial",
+    "quadrant": "platforms",
     "isNew": "TRUE",
     "description": "<p><strong>GitHub Pages</strong> provides a quick and simple way to host static websites directly from a GitHub repository. It integrates seamlessly with Jekyll and other static site generators, offering a free, easy-to-configure solution for personal or project-based websites.</p>"
   },
   {
     "name": "Serverless",
-    "ring": "Adopt",
-    "quadrant": "Techniques",
+    "ring": "adopt",
+    "quadrant": "techniques",
     "isNew": "FALSE",
     "description": "<p><strong>Serverless architecture</strong> allows developers to build and run applications without managing infrastructure. It scales automatically based on demand, reducing the need for complex server management. Popular for <em>event-driven architectures</em>, serverless abstracts operational complexity, letting developers focus on code. Cloud providers like AWS Lambda, Azure Functions, and Google Cloud Functions support this approach.</p>"
   },
   {
     "name": "Microservices",
-    "ring": "Adopt",
-    "quadrant": "Techniques",
+    "ring": "adopt",
+    "quadrant": "techniques",
     "isNew": "FALSE",
     "description": "<p><strong>Microservices architecture</strong> breaks monolithic applications into smaller, independently deployable services. Each service represents a specific business capability, enabling independent development, testing, and deployment. This allows teams to scale more effectively and innovate faster.</p>"
   },
   {
     "name": "Automated Testing Suites",
-    "ring": "Adopt",
-    "quadrant": "Techniques",
+    "ring": "adopt",
+    "quadrant": "techniques",
     "isNew": "TRUE",
     "description": "<p><strong>Automated testing suites</strong> ensure application quality and stability by automating repetitive tests. Tools like <em>JUnit</em>, <em>Selenium</em>, and <em>Cucumber</em> help developers quickly identify bugs and regressions in unit, integration, and end-to-end tests.</p>"
   },
   {
     "name": "Disaster Recovery",
-    "ring": "Adopt",
-    "quadrant": "Techniques",
+    "ring": "adopt",
+    "quadrant": "techniques",
     "isNew": "FALSE",
     "description": "<p><strong>Disaster recovery (DR)</strong> prepares organizations for outages or failures, ensuring business continuity through swift recovery. Strategies like data backups and cloud-based solutions minimize downtime and data loss in critical systems.</p>"
   },
   {
     "name": "Backstage",
-    "ring": "Trial",
-    "quadrant": "Techniques",
+    "ring": "trial",
+    "quadrant": "techniques",
     "isNew": "TRUE",
     "description": "<p><strong><a href=\"https://backstage.io/\">Backstage</a></strong> is an open-source developer portal from Spotify, centralizing software assets and documentation. It helps developers discover services and infrastructure components, improving development workflows through customizable plugins and service catalogs.</p>"
   },
   {
     "name": "Apache Cassandra",
-    "ring": "Trial",
-    "quadrant": "Techniques",
+    "ring": "trial",
+    "quadrant": "techniques",
     "isNew": "TRUE",
     "description": "<p><strong>Apache Cassandra</strong> is a distributed NoSQL database designed for high availability and scalability. Its horizontal scaling and fault tolerance make it ideal for handling large data volumes across distributed data centers.</p>"
   },
   {
     "name": "GitHub Action",
-    "ring": "Assess",
-    "quadrant": "Techniques",
+    "ring": "assess",
+    "quadrant": "techniques",
     "isNew": "TRUE",
     "description": "<p><strong>GitHub Actions</strong> automates CI/CD pipelines within GitHub. While it simplifies automation, teams should assess its suitability for enterprise environments, especially regarding security and compliance.</p>"
   },
   {
     "name": "Kibana",
-    "ring": "Trial",
-    "quadrant": "Techniques",
+    "ring": "trial",
+    "quadrant": "techniques",
     "isNew": "TRUE",
     "description": "<p><strong>Kibana</strong> is a data visualization tool for Elasticsearch. It creates dashboards for real-time log analysis and system monitoring, commonly used in observability stacks to troubleshoot and monitor performance.</p>"
   },
   {
     "name": "SLIs and SLOs as code",
-    "ring": "Assess",
-    "quadrant": "Techniques",
+    "ring": "assess",
+    "quadrant": "techniques",
     "isNew": "TRUE",
     "description": "<p>Since Google first popularized service-level indicators (SLIs) and service-level objectives (SLOs) as part of their site reliability engineering (SRE) practice, observability tools like <a href=\"https://docs.datadoghq.com/monitors/service_level_objectives/\">Datadog</a>, <a href=\"https://www.honeycomb.io/slos\">Honeycomb</a> and <a href=\"https://www.dynatrace.com/news/blog/what-are-slos/\">Dynatrace</a> started incorporating SLO monitoring into their toolchains. <a href=\"https://github.com/OpenSLO/OpenSLO\">OpenSLO</a> is an emerging standard that allows defining <strong>SLIs and SLOs as code</strong>, using a declarative, vendor-neutral specification language based on the YAML format used by <a href=\"/radar/platforms/kubernetes\">Kubernetes</a>. While the standard is still quite new, we're seeing some encouraging momentum, as with Sumo Logic's contribution of the <a href=\"https://github.com/OpenSLO/slogen\">slogen</a> tool to generate monitoring and dashboards. We're excited by the promise of versioning SLI and SLO definitions in code and updating observability tooling as part of the CI/CD pipeline of the service being deployed.</p>"
   },
   {
     "name": "Maven",
-    "ring": "Adopt",
-    "quadrant": "Tools",
+    "ring": "adopt",
+    "quadrant": "tools",
     "isNew": "FALSE",
     "description": "<p><strong>Maven</strong> is a widely adopted build tool for Java projects, streamlining project management by handling dependencies, builds, and documentation. Its plugin-based architecture supports customizations, making it essential for managing large-scale Java applications.</p>"
   },
   {
     "name": "GitHub CoPilot",
-    "ring": "Assess",
-    "quadrant": "Tools",
+    "ring": "assess",
+    "quadrant": "tools",
     "isNew": "TRUE",
     "description": "<p><strong>GitHub Copilot</strong> is an AI-powered code completion tool integrated into popular IDEs. By leveraging machine learning models trained on public code, it helps developers by suggesting lines of code, functions, or even entire code blocks, enhancing productivity and code quality.</p>"
   },
   {
     "name": "Terraform",
-    "ring": "Trial",
-    "quadrant": "Tools",
+    "ring": "trial",
+    "quadrant": "tools",
     "isNew": "TRUE",
     "description": "<p><strong>Terraform</strong> is an open-source infrastructure-as-code (IaC) tool that enables teams to define and provision cloud infrastructure through configuration files. It supports multiple cloud providers and automates deployments, promoting consistent infrastructure management.</p>"
   },
   {
     "name": "Kubernetes",
-    "ring": "Trial",
-    "quadrant": "Tools",
+    "ring": "trial",
+    "quadrant": "tools",
     "isNew": "TRUE",
     "description": "<p><strong>Kubernetes</strong> is an open-source container orchestration platform that automates deployment, scaling, and management of containerized applications. It has become the de facto standard for managing container workloads in cloud environments, providing flexibility and scalability across multiple clusters.</p>"
   },
   {
     "name": "Docker",
-    "ring": "Trial",
-    "quadrant": "Tools",
+    "ring": "trial",
+    "quadrant": "tools",
     "isNew": "FALSE",
     "description": "<p><strong>Docker</strong> simplifies application deployment by packaging software and its dependencies into isolated containers. It ensures consistency across development and production environments, reducing the 'works on my machine' problem. Docker is widely used for microservices and DevOps pipelines.</p>"
   }
