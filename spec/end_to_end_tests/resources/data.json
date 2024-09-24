@@ -37,14 +37,14 @@
   {
     "name": "Jekyll",
     "ring": "Trial",
-    "quadrant": "Platform",
+    "quadrant": "Platforms",
     "isNew": "TRUE",
     "description": "<p><strong>Jekyll</strong> is a simple, static site generator often used for GitHub Pages. It allows developers to create fast, customizable websites with minimal infrastructure. By processing Markdown files and templates, Jekyll generates static HTML content, making it an ideal choice for blogs, portfolios, and documentation sites.</p>"
   },
   {
     "name": "GitHub Pages",
     "ring": "Trial",
-    "quadrant": "Platform",
+    "quadrant": "Platforms",
     "isNew": "TRUE",
     "description": "<p><strong>GitHub Pages</strong> provides a quick and simple way to host static websites directly from a GitHub repository. It integrates seamlessly with Jekyll and other static site generators, offering a free, easy-to-configure solution for personal or project-based websites.</p>"
   },
